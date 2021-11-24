@@ -1,0 +1,23 @@
+.rappper-box{
+    color: white;
+    font-size: calc(10px + 2vmin);
+    margin: auto;
+
+    
+}
+
+  .foto {
+    height: 40vmin;
+    position:relative;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .deskripsi {
+    text-align: justify;
+    margin-left: 15vmin;
+    margin-right: 15vmin;
+
+    word-spacing: auto;
+  }

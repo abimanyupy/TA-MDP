@@ -6,20 +6,20 @@ import './NavBawah.css'
 
 export default function NavBawah() {
   return (
-    <div className="bottom-nav">
-      <NavLink to="/" className="link nav-link">
+    <div className="nav-bawah">
+      <NavLink to="/" className="link nav-menu">
         {/* <CgHome className="icon" /> */}
         Home
       </NavLink>
-      <NavLink to="/rapper" className="link nav-link">
+      <NavLink to="/rapper" className="link nav-menu">
         {/* <CgPokemon className="icon" /> */}
         Rapper
       </NavLink>
-      <NavLink to="/dj" className="link nav-link">
+      <NavLink to="/dj" className="link nav-menu">
         {/* <TiShoppingBag className="icon" /> */}
-        Dj
+        DJ
       </NavLink>
-      <NavLink to="/about" className="link nav-link">
+      <NavLink to="/about" className="link nav-menu">
         {/* <CgProfile className="icon" /> */}
         About
       </NavLink>

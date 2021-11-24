@@ -3,20 +3,20 @@ import './About.css'
 
 export default function About() {
   return (
-      <div className="about grid-container">
+      <div className="about">
         <img 
         className="vinyl" 
-        src="./vinyll.png"
+        src="./vinylll.png"
         alt=""
         />
-        <div className="grids"><h1>About App</h1>
+        <div className="grids"><h1>About</h1>
         <p>
-        This application is created to let users know what is about hiphop with information from 2 of 4 hiphop elements.
-        Hip hop is a culture and art movement that was created by African Americans.
-        Hip hop is characterized by four key elements: 
-        RAPPING is a rhythmic vocal rhyming style, 
-        DJ which is the practice of making music with record players and DJ mixers, 
-        B-BOY, and GRAFFITI. 
+        Aplikasi ini dibuat untuk memberi tahu para pengguna tentang hip-hop dengan informasi dari 2 dari 4 
+        elemen yang ada pada hip-hop. Hip-hop merupakan suatu gerakan budaya dan seni yang diciptakan oleh orang Afrika-Amerika. Hip-hop 
+        ditandai dengan empat elemen kunci: 
+        Raping adalah gaya berima vokal berirama, 
+        DJ yang merupakan praktik membuat musik dengan pemutar rekaman dan mixer DJ,
+         B-Boy, dan Graffiti.
         </p>
         </div>
       </div>

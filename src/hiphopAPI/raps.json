@@ -1,0 +1,52 @@
+ [{
+        
+                "imgurl" : "https://pophariini.com/wp-content/uploads/2020/12/Tuan-tigabelas.jpg",
+                "id" :1,
+                "nama" : "Tuan Tigabelas",
+                "asal" : "Jakarta",
+                "deskripsi" :"Tuan Tigabelas mengawali kariernya dimulai pada tahun 2009 saat menulis lagu sendiri sejak masih kuliah. Kemudian pada 2011 ia membentuk sebuah band bernama Rebel Education Project (REP) yang bergenre hip hop. Ia bersama bandnya merilis album pertama yang berjudul Letter To. Tuan Tigabelas merilis album pertamanya yang berjudul Harimau Sumatra."
+            
+                },
+            {
+                "imgurl" : "http://mavemagz.com/wp-content/uploads/2014/08/D-P-M-B-profile-2014.jpg",
+                "id" :2,
+                "nama" : "D.P.M.B",
+                "asal" : "Yogyakarta"
+            },
+            {
+                "imgurl" : "https://i.scdn.co/image/2f9f862a49c76c232203eddc3e91f177952e804d",
+                "id" :3,
+                "nama" : "Mario Zwinkle",
+                "asal" : "Yogyakarta"
+            },
+            {
+                "imgurl" : "https://www.maternaldisaster.com/wp-content/uploads/2019/03/krowbar.jpg",
+                "id" :4,
+                "nama" : "Krowbar",
+                "asal" : "Bandung"
+            },
+            {
+                "imgurl" : "https://i.ytimg.com/vi/A2xmNrjzPb4/maxresdefault.jpg",
+                "id" :5,
+                "nama" : "Boyz Got no Brain",
+                "asal" : "Yogyakarta"
+            },
+            {
+                "imgurl" : "https://i.ytimg.com/vi/6fxWCsoLbs4/hqdefault.jpg",
+                "id" :6,
+                "nama" : "Nartok",
+                "asal" : "Yogyakarta"
+            },
+            {
+                "imgurl" : "https://cdn-brilio-net.akamaized.net/news/2019/12/17/175723/1143091-a-nayaka.jpg",
+                "id" :7,
+                "nama" : "A. Nayaka",
+                "asal" : "Jakarta"
+            },
+            {
+                "imgurl" : "https://i.scdn.co/image/59a22e732d43aa2d17773d988645a0dff2443342",
+                "id" :8,
+                "nama" : "Laze",
+                "asal" : "jakarta"
+            }
+            ]

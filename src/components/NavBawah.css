@@ -1,5 +1,6 @@
-.bottom-nav {
-  background: #222831 ;
+.nav-bawah {
+  background: black ;
+  height: 4rem;
   position: fixed;
   bottom: 0;
   display: flex;
@@ -7,22 +8,22 @@
   align-items: center;
   gap: 1.5rem;
   width: 100%;
-  padding: 1rem;
 }
 
-.nav-link {
+.nav-menu {
   color: white;
+  font-family: helvetica;
+  border-radius: 10px;
+  position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  text-decoration: none;
+  font-weight:bolder;
 }
 
-
-.icon {
-  font-size: 1.5rem;
-}
 
 .active {
-  color: #FD7014;
+  color: #00ADB5;
+  font-weight:bolder;
+  text-decoration: underline;
 }

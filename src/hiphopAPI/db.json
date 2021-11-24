@@ -1,0 +1,90 @@
+{
+    "dj": [
+        {
+            "imgurl": "https://i.ytimg.com/vi/jnfM1OXSOcM/maxresdefault.jpg",
+            "id": 1,
+            "nama": "Dj Eone",
+            "asal": "Bandung",
+            "deskripsi":"Setelah menjuarai dan mendapatkan predikat sebagai DJ dan Turntablist terbaik di tanah air ternyata jika ditarik kebelakang DJ E-One mengawali bermusik pada jaman SMP dengan membentuk sebuah band bernama Porn Magazine, dari momen itu band Hardcore dan Nu-Metal seperti Limb Bizkit, Biohazard dan SoulFly banyak mempengaruhi awal mula karirnya di jalur musik. Pengaruh Homicide pun melekat pada dirinya sebagai DJ. Menurut E-one 'Bermusik tidak harus mencari uang saja melainkan ada yang lebih jauh dari itu seperti belajar tentang kemanusiaan untuk orang banyak'. Disela-sela kesibukannya di dunia beatmaker, E-one membangun sebuah brand apparel bernama Uprock83 bersama Herry Sutresna a.k.a Ucok yang berlandaskan passion mereka di dunia Hip-Hop. Simak interview team Easthood bersama DJ E-one di YouTube Easthood."
+        },
+        {
+            "imgurl": "https://gp1.wac.edgecastcdn.net/802892/http_public_production/photos/images/8161029/original/resize:128x96/crop:x26y2w636h476/hash:1463626387/1324707203_317573988274048_107073925990723_1082158_1839683266_n.jpg?1463626387",
+            "id": 2,
+            "nama": "Dj Paws",
+            "asal": "Yogyakarta",
+            "deskripsi": "PAWS akhir medio 2012 dikenal sebagai seorang Disk Jockey/ TurnTabelist dan Produser dari Unit Rawrap “NOK37” dan belakangan terlibat dalam Duo Unit Musik Elektronik “CUT OFF DEPTH”, namun kiprahnya di pusaran scene Underground Kota Yogyakarta tercatat sejak medio akhir 1999 saat masih tergabung dalam Band Hardcore “NO FRONT” sampai tahun 2006, kemudian membentuk unit hiphop “TAWAZUN” pada medio 2007-2011 dan pada akhirnya juga dikenal sebagai seorang street artist bersama kolektif “YORC”."
+        },
+        {
+            "imgurl": "https://i.ytimg.com/vi/e2CsOlz1KqE/maxresdefault.jpg",
+            "id": 3,
+            "nama": "Dj Geramar",
+            "asal": "Bali",
+            "deskripsi":"Dj Geramar tergabung dalam grup hip-hop Mukarakat yang berasal dari Nusa Tenggara Barat yang menetap di Bali. ama MukaRakat mempunyai makna tersendiri. Rakat atau masyarakat adalah panggilan khusus bagi pendatang dari Indonesia Timur, terutama Nusa Tenggara Timur. Jadi, MukaRakat dapat diterjemahkan sebagai ‘wajah dari Timur’."
+        },
+        {
+            "imgurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DJ_Yella_2.jpg/220px-DJ_Yella_2.jpg",
+            "id": 4,
+            "nama": "Dj Yella",
+            "asal": "Los Angeles",
+            "deskripsi": "Antoine Carraby (lahir 11 Desember 1967), lebih dikenal dengan nama panggungnya DJ Yella, adalah seorang DJ Amerika, rapper, produser rekaman dan sutradara film dari Los Angeles, California. Yella sangat menyukai musik sejak usia muda. Dia tumbuh mendengarkan musik funk dan belajar bermain drum. Sebagai seorang remaja, Yella tampil di berbagai klub di Los Angeles. Dia adalah anggota dari World Class Wreckin 'Cru bersama dengan Dr. Dre. Dia kemudian bergabung dengan kelompok rap gangsta perintis N.W.A (awalnya terdiri dari Dr. Dre, Ice Cube, MC Ren, Arabian Prince dan Eazy-E)."
+        }
+    ],
+    "rap": [
+        {
+            "imgurl": "http://images.genius.com/3f0ce78e1a463372655c8bb7d16e4a82.432x432x1.jpg",
+            "id": 1,
+            "nama": "Morgue Vanguard",
+            "asal": "Bandung",
+            "deskripsi": "Herry Sutresna (lahir 21 Juni 1974) adalah seorang musisi, rapper dan penulis. Ia adalah salah satu pendiri kolektif hip hop Homicide pada tahun 1994. Memiliki nama moniker Morgue Vanguard, bersama Homicide, ia sempat membuat tiga album dan satu mini album sebelum Homicide membubarkan diri pada tahun 2007. Selepas Homicide, Ucok membuat album solonya “Fateh” dibantu DJ asal New York, Still. Ucok adalah alumni Sastra Inggris Universitas Padjajaran dan Fakultas Seni Rupa dan Desain Institut Teknologi Bandung—yang kemudian sempat aktif di Partai Rakyat Demokratik (PRD) di masa senjakala Orde Baru."
+        },
+        {
+            "imgurl": "https://i.ytimg.com/vi/A2xmNrjzPb4/maxresdefault.jpg",
+            "id": 2,
+            "nama": "Boyz Got no Brain",
+            "asal": "Yogyakarta",
+            "deskripsi": " Boyz Got No Brain (BGNB) merupakan grup hip-hop yang sangat legendaris sejak tahun 1992 dalam kancah hip-hop Indonesia. Merupakan salah satu grup hip-hop yang paling awal muncul di Indonesia. Beranggotakan Xaqhala (Gerry Konaedi) dan Rulionzzo Alphonso Parulian Sagala atau yang lebih dikenal dengan panggilan Gerry dan Rulli, dua sahabat yang bertetanggaan sejak kecil di Kampung Dalam, Cawang Atas, Jakarta Timur. "
+        },
+        {
+            "imgurl": "https://pophariini.com/wp-content/uploads/2020/12/Tuan-tigabelas.jpg",
+            "id": 3,
+            "nama": "Tuan Tigabelas",
+            "asal": "Jakarta",
+            "deskripsi": "Tuan Tigabelas mengawali kariernya dimulai pada tahun 2009 saat menulis lagu sendiri sejak masih kuliah. Kemudian pada 2011 ia membentuk sebuah band bernama Rebel Education Project (REP) yang bergenre hip hop. Ia bersama bandnya merilis album pertama yang berjudul Letter To. Tuan Tigabelas merilis album pertamanya yang berjudul Harimau Sumatra."
+        },
+        {
+            "imgurl": "http://mavemagz.com/wp-content/uploads/2014/08/D-P-M-B-profile-2014.jpg",
+            "id": 4,
+            "nama": "D.P.M.B",
+            "asal": "Yogyakarta",
+            "deskripsi": "D.P.M.B atau Dua Petaka Membawa Bencana sendiri terbentuk 2007 silam. Beranggotakan M2MX dan Alexander Sinaga, keduanya sukses menembus tangga lagu Hip Hop Ternama Tanah Air lewat debut single Microphone Attack. "
+        },
+        {
+            "imgurl": "https://www.maternaldisaster.com/wp-content/uploads/2019/03/krowbar.jpg",
+            "id": 5,
+            "nama": "Krowbar",
+            "asal": "Bandung",
+            "deskripsi": "Krowbar memiliki masa kelam yang ia hendak lupakan; menjadi anak punk. Di era 90-an akhir/awal 2000-an, ia merupakan vokalis (konon) grup thrashcore Bandung, Anjing Tanah. Ia sendiri enggan membicarakan kegelapan masa hardcore/punk itu dan berniat melupakannya. Namun berhubung tak ada pernyataan hitam-putih perihal tersebut di atas kertas kontrak rekaman, kami tetap menceritakannya. Selama lebih dari satu dekade ia banting stir menulis lirik rap, dan semakin intens 3 tahun belakangan atas alasan silaunya kesuksesan rapper-rapper masa kini yang bergelimang harta, membuatnya iri untuk bisa juga mengajukan cicilan mobil sport dan membangun dinasti bisnis obat batuk dan kumur."
+        },
+        {
+            "imgurl": "https://www.defjamsea.com/wp-content/uploads/2020/09/MukaRakat-3-scaled.jpg",
+            "id": 6,
+            "nama": "Mukarakat",
+            "asal": "Nusa Tenggara Barat",
+            "deskripsi": "MukaRakat adalah sebuah grup yang bukan lagi anak kemarin sore dalam menyusuri pasang surutnya bermusik hip-hop. Awalnya, grup ini digawangi leh delapan orang eks personil Ruteng Clan, sebuah grup hip-hop asal Ruteng, NTT. Bertemu kembali di Pulau Dewata, mereka kembali bermusik dan membentuk MukaRakat, ada pula tambahan wajah baru dari Papua yang masuk. Hingga 2019, MukaRakat terhitung memiliki lima personil, yakni Lipooz, 4pri Beat, Axer Ghetto, D Flow, dan DJ Geramar. MukaRakat sudah berhasil menjadi sebuah nama yang tidak bisa diremehkan begitu saja. Acara-acara mereka selalu dinanti, aksi-aski energik pasti disalurkan melaluinya.MukaRakat selalu menyuarakan suara-suara dari timur Indonesia. "
+        },
+        {
+            "imgurl": "https://i.scdn.co/image/2f9f862a49c76c232203eddc3e91f177952e804d",
+            "id": 7,
+            "nama": "Mario Zwinkle",
+            "asal": "Yogyakarta",
+            "deskripsi": "Arya Givary Hiemsta a.k.a Mario Zwinkle rapper muda besutan Hellhouse Records memulai karirnya sejak 2012 dan dikenal lewat tiga hits singlenya yaitu: Funk Yeah, Diyu, dan Knows Me Better. Mario melakukan kolaborasi dengan beberapa rapper Indonesia salah satunya, Tuantigabelas di lagu “Do It” bersama enam rapper lain dalam satu track, dan Optizilla di salah satu single dalam albumnya yang bertajuk “Wicked Style”. Pada 2020 Mario Zwinkle mengeluarkan album dengan judul “Soul Plane” berisi 11 track yang bercerita tentang rangkuman perjalanan Mario mulai dari kecil hingga sekarang, tentang keluarga, teman dan saudara. Proses penggarapan album memakan waktu hampir satu tahun dan akhirnya selesai dengan baik"
+        },
+        {
+            "imgurl": "https://i.scdn.co/image/59a22e732d43aa2d17773d988645a0dff2443342",
+            "id": 8,
+            "nama": "Laze",
+            "asal": "jakarta",
+            "deskripsi": "Mochamad Havie Parkasya atau yang dikenal dengan nama Laze (lahir 20 Maret 1992) adalah seorang Rapper dan Penyanyi yang berasal dari Indonesia. Laze tertarik pada dunia musik lahir dari hobi menonton acara MTV Cribs yang populer di tahun 2000-an. Laze mulai mengenal musik hip hop sejak duduk di bangku SD. Kala itu dia mengidolakan Eminem, 50 Cent dan musisi hip hop Amerika lainnya dalam menyanyikan lagu rap. Kecintaan terhadap musik Rap berlanjut hingga remaja. Laze mulai menyaksikan film 8 Mile (2002) yang diperankan Eminem. Laze mulai mengikuti kontes rap tersebut di usia 15 tahun dengan nama panggung Lazy-P, Laze memenangkan kompetisi rap besar. Laze merilis album mixtape perdananya yang berjudul Vacant Room. Laze kembali merilis album pertamanya berjudul Waktu Bicara. Laze kembali merilis album keduanya yang berjudul Puncak Janggal"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+.rapper {
+    background: #222831;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 8rem;
+    display: flex;
+    min-height: 100vh;
+  }
+h1{
+    color: white;
+    font-size: 50px;
+    margin: auto;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+}
+  
+  /* .rapper-container {
+    margin-top: 1rem;
+    padding-bottom: 5rem;
+  }
+   */
+
+  
+  .rppr-name {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-decoration: none;
+  }
+
+  /* .foto {
+    height: 40vmin;
+    position:relative;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+  } */
+  
