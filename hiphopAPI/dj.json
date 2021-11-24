@@ -1,0 +1,27 @@
+{
+    "dj": [{
+        "imgurl" : "https://i.ytimg.com/vi/jnfM1OXSOcM/maxresdefault.jpg",
+        "id" :1,
+        "nama" : "Dj Eone",
+        "asal" : "Bandung"
+    },
+    {
+        "imgurl" : "https://gp1.wac.edgecastcdn.net/802892/http_public_production/photos/images/8161029/original/resize:128x96/crop:x26y2w636h476/hash:1463626387/1324707203_317573988274048_107073925990723_1082158_1839683266_n.jpg?1463626387",
+        "id" :2,
+        "nama" : "Dj Paws",
+        "asal" : "Yogyakarta"
+    },
+    {
+        "imgurl" : "https://i.ytimg.com/vi/e2CsOlz1KqE/maxresdefault.jpg",
+        "id" :3,
+        "nama" : "Dj geramar",
+        "asal" : "Flores"
+    },
+    {
+        "imgurl" : "https://i.ytimg.com/vi/2lSYVqVIlHU/maxresdefault.jpg",
+        "id" :4,
+        "nama" : "Dj Gandhi",
+        "asal" : "Jakarta"
+    }
+    ]
+}
